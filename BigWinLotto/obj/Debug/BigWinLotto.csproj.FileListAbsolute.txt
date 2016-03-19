@@ -1,0 +1,14 @@
+c:\users\netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\bin\Debug\BigWinLotto.exe.config
+c:\users\netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\bin\Debug\BigWinLotto.exe
+c:\users\netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\bin\Debug\BigWinLotto.pdb
+c:\users\netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.csprojResolveAssemblyReference.cache
+c:\users\netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.MainForm1.resources
+c:\users\netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.Properties.Resources.resources
+c:\users\netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.csproj.GenerateResource.Cache
+c:\users\netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.exe
+c:\users\netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.pdb
+c:\Users\Netko\Documents\Visual Studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.FormDrawResults.resources
+c:\Users\Netko\Documents\Visual Studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.FormPurchase.resources
+c:\Users\Netko\Documents\Visual Studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.FormRandomGenerator.resources
+C:\Users\Netko\Documents\Visual Studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.FormPowerballPurchase.resources
+C:\Users\Netko\documents\visual studio 2015\Projects\BigWinLotto\BigWinLotto\obj\Debug\BigWinLotto.FormFavoriteNumbers.resources
